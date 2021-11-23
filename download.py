@@ -8,6 +8,7 @@ import requests
 import wget
 import shutil
 
+#Fill in the path of your directory here
 mainDirectory = "DIRECTORY"
 
 def VPNRequest():
