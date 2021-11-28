@@ -1,6 +1,8 @@
 # Download IP VPN
 Download a public [list](https://raw.githubusercontent.com/jychp/vpns/main/servers.lst) of IP addresses from VPN providers (updated daily).
 
+:warning: The list is currently unavailable :warning:
+
 # Usage
 ```bash
 pip3 install -r requirements.txt
